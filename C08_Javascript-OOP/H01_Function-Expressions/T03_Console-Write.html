@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript" src="scripts/t03_console-write.js"></script>
+    <script>
+        var specialConsole = specialConsole();
+        specialConsole.writeLine("Message: hello");
+        //logs to the console "Message: hello"
+        specialConsole.writeLine("Message: {0}", "hello");
+        //logs to the console "Message: hello"
+        specialConsole.writeError("Error: {0}", "Something happened");
+        specialConsole.writeWarning("Warning: {0}", "A warning");
+        specialConsole.writeLine('{0}, {1}, {0} - {2}, {3}', 'Bees', 'Roses', 'are dying', 'crap');
+
+    </script>
+</body>
+</html>

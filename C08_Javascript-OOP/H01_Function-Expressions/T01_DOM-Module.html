@@ -3,8 +3,43 @@
 <head>
     <title>Module for DOM manipulation</title>
 </head>
-<body>
+<body>    
     <div id="wrapper"></div>
-    <script></script>
+    <ul>
+        <li>
+            First element
+        </li>
+        <li>
+            Second element
+        </li>
+        <li>
+            Third element
+        </li>
+    </ul>
+    <div id="main-nav">
+        <ul></ul>
+    </div>
+    <div>
+        <a href="#" class="button">Click me</a>
+    </div>
+    <div id="container"></div>    
+    <script type="text/javascript" src="scripts/t01_dom-modules.js"></script>
+    <script>
+        var domModule = domModule();        
+        var div = document.createElement("div");
+        //appends div to #wrapper
+        domModule.appendChild(div,"#wrapper"); 
+        //removes li:first-child from ul
+        domModule.removeChild("ul","li:first-child"); 
+        //add handler to each a element with class button
+        domModule.addHandler("a.button", 'click',        
+                             function () { alert("Clicked") });
+        for (var i = 0; i < 120; i++) {
+            div.innerHTML = 'Element ' + i;
+            console.log(i);
+            domModule.appendToBuffer("#container", div.cloneNode(true));
+        }        
+        domModule.appendToBuffer("#main-nav ul", document.createElement('li'));
+    </script>
 </body>
 </html>
