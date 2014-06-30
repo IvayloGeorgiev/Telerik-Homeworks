@@ -35,6 +35,7 @@
             left = getRandomNumber(ELLIPSE_X_RADIUS, window.innerWidth - (ELLIPSE_X_RADIUS + ELEMENT_WIDTH + 7));
             element.style.top = top + 'px';
             element.style.left = left + 'px';
+			element.style.borderRadius = '30px';
 
             shapes.push({
                 element: element,
@@ -127,14 +128,14 @@
     }
 
     function getRandomNumber(low, high) {
-        var random = Math.floor((Math.random() * (high - low)) + low);
+        var random = Math.floor((Math.random() * (high - low + 1)) + low);
         return random;
     }
 
     function getRandomColor() {
-        var red = getRandomNumber(0, 256),
-            green = getRandomNumber(0, 256),
-            blue = getRandomNumber(0, 256),
+        var red = getRandomNumber(0, 255),
+            green = getRandomNumber(0, 255),
+            blue = getRandomNumber(0, 255),
             color = 'rgb(' + red + ', ' + green + ', ' + blue + ')';
         return color;
     }

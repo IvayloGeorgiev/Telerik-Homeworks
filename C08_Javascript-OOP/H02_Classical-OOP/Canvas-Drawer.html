@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Canvas drawer</title>
+</head>
+<body>
+    <div id="container"></div>
+    <script type="text/javascript" src="scripts/canvas-drawer.js"></script>
+    <script>
+        var canvas = new CanvasDrawer('#container');
+        canvas.rect(20, 20, 100, 100);
+        canvas.circle(200, 200, 40, 40);
+        canvas.line(300, 20, 300, 220);
+    </script>
+</body>
+</html>
