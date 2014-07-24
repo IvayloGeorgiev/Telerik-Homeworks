@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Number guessing game</title>
+    <link type="text/css" rel="stylesheet" href="styles/gameStyle.css" />
+</head>
+<body>
+    <div id="number-game-wrapper">
+        <div class="guesses">
+            <h2>Last Guesses</h2>
+            <ul class="guesses-list"></ul>
+        </div>
+        <div class="main-container">
+            <div class="user-input">
+                <h1>Rams and Sheep</h1>
+                <div>Enter a 4 digit number (no repeating digits)</div>
+                <input class="input-field" type="text" placeholder="Enter a 4 digit number" />
+                <button class="get-user-input" type="button">Guess</button>
+            </div>
+            <div class="username-div">
+                <div class="final-score"></div>
+                <input class="username-field" type="text" placeholder="Enter a nickname" />
+                <button class="get-username" type="button">Submit</button>
+            </div>
+            <div class="game-over">
+                <h1>Refresh page to play again.</h1>
+            </div>
+        </div>
+        <div class="high-scores">
+            <h2>High Scores</h2>
+            <ul class="high-scores-list"></ul>
+        </div>
+    </div>
+    <script type="text/javascript" src="scripts/libs/underscore.js"></script>
+    <script type="text/javascript" src="scripts/libs/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="scripts/gameLogic.js"></script>
+    <script type="text/javascript" src="scripts/gameStart.js"></script>
+</body>
+
+</html>

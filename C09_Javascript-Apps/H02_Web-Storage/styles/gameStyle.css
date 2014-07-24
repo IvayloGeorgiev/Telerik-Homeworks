@@ -1,0 +1,62 @@
+﻿body, ul, div, li, button, input {
+    margin: 0;
+    padding: 0;
+}
+
+#number-game-wrapper{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background:lightblue;
+    border: 3px solid lime;
+    border-radius: 30px;
+    height:700px;
+}
+
+#number-game-wrapper ul{
+    list-style-type:none;
+}
+
+#number-game-wrapper .main-container, #number-game-wrapper .high-scores, #number-game-wrapper .guesses{
+    display:inline-block;
+    vertical-align:top;
+    margin: 20px 20px;   
+    height:90%;
+}
+
+#number-game-wrapper .main-container{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 0 30px;
+}
+
+#number-game-wrapper .main-container > div{
+    text-align:center;
+}
+
+#number-game-wrapper .main-container .user-input .input-field{
+    text-align:center;
+}
+
+#number-game-wrapper .main-container .user-input .get-user-input, #number-game-wrapper .main-container .username-div .get-username{
+    display:block;
+    text-align:center;
+    margin:10px auto;
+    font-size:18px;
+    padding:5px;
+}
+
+#number-game-wrapper .main-container .username-div{
+    display:none;
+}
+
+#number-game-wrapper .main-container .game-over{
+    margin: 10px auto;
+    display:none;
+}
+
+.guess-item, .score-item{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid gray;
+}
