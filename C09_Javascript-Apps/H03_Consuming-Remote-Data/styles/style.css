@@ -1,0 +1,36 @@
+﻿.info{
+	font-size: 0.9em;
+	font-style: italic;
+	border: 1px solid orange;
+	display: block;
+	padding:5px 15px;
+	width: 250px;
+	margin: 0 auto;
+	text-indent: 0;
+}
+
+.message.success{
+	color: green;
+}
+.message.error{
+	color: red;
+}
+.message.error, .message.success{
+	display: none;
+}
+
+.students-list{
+    list-style-type:none;
+}
+
+.student-item strong:before{
+	content: 'Name: ';
+}
+
+.student-item span.grade:before{
+	content: ', Grade: ';
+}
+
+.student-item span.id:before{
+	content: ', ID: ';
+}

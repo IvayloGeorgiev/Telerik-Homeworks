@@ -1,0 +1,9 @@
+﻿<div class="chat-box">
+    {{#each this}}
+    <div class="chat-item" data-id="{{this.id}}">
+        <div class="chat-item-name">{{this.by}}:</div>
+        <div class="chat-item-content">{{this.text}}</div>
+    </div>
+    {{/each}}
+</div>
+
