@@ -1,0 +1,24 @@
+﻿<Window x:Class="MongoDbChat.WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="508" Width="773">
+    <Grid>
+        <Button Name="Login" Content="Login" HorizontalAlignment="Left" Margin="153,10,0,0" VerticalAlignment="Top" Width="75" Click="Login_Click"/>
+        <TextBox Name="LoginName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="LoginName" VerticalAlignment="Top" Width="120" Margin="10,10,0,0"/>
+        <Button Visibility="Collapsed" Name="Logout" Content="Logout" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="10,10,0,0" Click="Logout_Click"/>
+        <ListBox Name="ListBoxMessages" HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Disabled" HorizontalAlignment="Left" Height="298" VerticalAlignment="Top" Width="585" Margin="10,50,0,0">
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="{x:Type ListBoxItem}">
+                    <Setter Property="Margin" Value="5,5,5,5"></Setter>
+                </Style>
+            </ListBox.ItemContainerStyle>
+        </ListBox>
+        <RadioButton Name="PostsSinceEver" Content="Ever" HorizontalAlignment="Left" Margin="691,58,0,0" VerticalAlignment="Top" Checked="PostsSinceEver_Checked"/>
+        <RadioButton Name="PostsSinceSession" Content="Session" HorizontalAlignment="Left" Margin="691,79,0,0" VerticalAlignment="Top" Checked="PostsSinceSession_Checked"/>
+        <RadioButton Name="PostsSinceNow" Content="Now" HorizontalAlignment="Left" Margin="691,100,0,0" VerticalAlignment="Top" Checked="PostsSinceNow_Checked" />
+        <TextBox Name="PostContent" HorizontalAlignment="Left" Height="41" Margin="10,372,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="350"/>
+        <Button Name="PostButton" IsEnabled="False" Content="Post" HorizontalAlignment="Left" Height="24" Margin="377,372,0,0" VerticalAlignment="Top" Width="80" Click="PostButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="600,61,0,0" TextWrapping="Wrap" Text="Posts since:" VerticalAlignment="Top" Width="76" RenderTransformOrigin="0.474,2"/>
+
+    </Grid>
+</Window>

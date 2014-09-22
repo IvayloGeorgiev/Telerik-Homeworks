@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students xmlns="https://telerikacademy.com/Courses/Courses/Details/185">
+  <student>
+    <name>Porky Pig</name>
+    <sex>M</sex>
+    <birthdate>1980-11-12</birthdate>
+    <phone>98714225</phone>
+    <email>boby@boby.com</email>
+    <course>Software Engineering</course>
+    <specialty>Eating</specialty>
+    <faculty-number>87165123</faculty-number>
+    <exams>
+      <exam>
+        <name>How to sleep in class</name>
+        <tutor>Bobby</tutor>
+        <score>5.20</score>
+      </exam>
+      <exam>
+        <name>Javascript Applications</name>
+        <tutor>Doncho</tutor>
+        <score>5.20</score>
+      </exam>
+    </exams>
+    <enrolment date="2010-01-01" exam-score="4.50"/>
+    <endorsements>
+      <endorsement teacher-name="Doncho">Cool guy</endorsement>
+      <endorsement teacher-name="Gosho">Kinda meh</endorsement>
+    </endorsements>
+  </student>
+  <student>
+      <name>Bugs Bunny</name>
+      <sex>M</sex>
+      <birthdate>1950-11-12</birthdate>
+      <phone>09812351</phone>
+      <email>bunny@bunny.com</email>
+      <course>Software Engineering</course>
+      <specialty>Taunting</specialty>
+      <faculty-number>75281452</faculty-number>
+      <exams>
+        <exam>
+          <name>Hole diving</name>
+          <tutor>Moleman</tutor>
+          <score>6.00</score>
+        </exam>
+        <exam>
+          <name>Advanced algorithms</name>
+          <tutor>Niki</tutor>
+          <score>5.50</score>
+        </exam>
+      </exams>
+      <enrolment date="2010-01-01" exam-score="5.60"/>
+      <endorsements>
+        <endorsement teacher-name="Doncho">He is good, but will annoy the hell out of you</endorsement>
+        <endorsement teacher-name="Gosho">Whatevers</endorsement>
+      </endorsements>
+    </student>
+  <student>
+      <name>Daffy Duck</name>
+      <sex>M</sex>
+      <birthdate>1960-01-13</birthdate>
+      <phone>81725326</phone>
+      <email>boby@boby.com</email>
+      <course>Software Engineering</course>
+      <specialty>Screaming</specialty>
+      <faculty-number>21451589</faculty-number>
+      <exams>
+        <exam>
+          <name>Scream really fucken load</name>
+          <tutor>Zeus</tutor>
+          <score>5.50</score>
+        </exam>
+        <exam>
+          <name>Databases</name>
+          <tutor>Ivo</tutor>
+          <score>5.23</score>
+        </exam>
+      </exams>
+      <enrolment date="2011-01-01" exam-score="6.00"/>
+      <endorsements>
+        <endorsement teacher-name="Doncho">Dunno</endorsement>
+        <endorsement teacher-name="Gosho">Is fun</endorsement>
+      </endorsements>
+    </student>
+</students>

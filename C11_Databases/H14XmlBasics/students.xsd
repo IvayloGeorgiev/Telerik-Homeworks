@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="https://telerikacademy.com/Courses/Courses/Details/185" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="sex" type="xs:string"/>
+              <xs:element name="birthdate" type="xs:date"/>
+              <xs:element name="phone" type="xs:string"/>
+              <xs:element name="email" type="xs:string"/>
+              <xs:element name="course" type="xs:string"/>
+              <xs:element name="specialty" type="xs:string"/>
+              <xs:element name="faculty-number" type="xs:string"/>
+              <xs:element name="exams">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="exam">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="name" type="xs:string" />
+                          <xs:element name="tutor" type="xs:string"/>
+                          <xs:element name="score" type="xs:double"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="enrolment">
+                <xs:complexType>
+                  <xs:attribute name="date" type="xs:date"></xs:attribute>
+                  <xs:attribute name="exam-score" type="xs:double"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="endorsements">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="endorsement">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="teacher-name"></xs:attribute>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

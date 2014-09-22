@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dir name="../../../">
+  <dir name="../../../UsingXml">
+    <dir name="bin">
+      <dir name="Debug">
+        <file>UsingXml.exe</file>
+        <file>UsingXml.exe.config</file>
+        <file>UsingXml.pdb</file>
+        <file>UsingXml.vshost.exe</file>
+        <file>UsingXml.vshost.exe.config</file>
+        <file>UsingXml.vshost.exe.manifest</file>
+      </dir>
+      <dir name="Release" />
+    </dir>
+    <dir name="obj">
+      <dir name="Debug">
+        <dir name="TempPE" />
+        <file>DesignTimeResolveAssemblyReferencesInput.cache</file>
+        <file>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</file>
+        <file>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</file>
+        <file>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</file>
+        <file>UsingXml.csproj.FileListAbsolute.txt</file>
+        <file>UsingXml.csprojResolveAssemblyReference.cache</file>
+        <file>UsingXml.exe</file>
+        <file>UsingXml.pdb</file>
+      </dir>
+    </dir>
+    <dir name="Properties">
+      <file>AssemblyInfo.cs</file>
+    </dir>
+    <file>App.config</file>
+    <file>CatalogueGenerator.cs</file>
+    <file>DomOperations.cs</file>
+    <file>MainEntry.cs</file>
+    <file>UsingXml.csproj</file>
+    <file>XmlReadWrite.cs</file>
+    <file>XmlWithLinq.cs</file>
+    <file>XPathOperations.cs</file>
+  </dir>
+  <file>../../../catalogue-names.xml</file>
+  <file>../../../catalogue-starter.xml</file>
+  <file>../../../catalogue.xml</file>
+  <file>../../../directories-linq.xml</file>
+  <file>../../../directories.xml</file>
+  <file>../../../H15XmlProcessingInNet.jmconfig</file>
+  <file>../../../H15XmlProcessingInNet.sln</file>
+  <file>../../../H15XmlProcessingInNet.v12.suo</file>
+  <file>../../../people.txt</file>
+  <file>../../../people.xml</file>
+</dir>

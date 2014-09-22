@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01to05_NorthwindInSSMS", "T01to05_NorthwindInSSMS\T01to05_NorthwindInSSMS.csproj", "{C7DEDF8E-96E5-46B2-8B37-948D533537F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06to07ExcellSheetConnection", "T06to07ExcellSheetConnection\T06to07ExcellSheetConnection.csproj", "{E324EEA7-F07C-4E1E-BFBF-0D44C1DFBE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08StringSearch", "T08StringSearch\T08StringSearch.csproj", "{1B118924-DF91-4257-A6B4-5264E2ABB688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09MySQLConnection", "T09MySQLConnection\T09MySQLConnection.csproj", "{9F4AD8E3-339D-4AB4-B32A-335571CD151C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10SqlLiteConnection", "T10SqlLiteConnection\T10SqlLiteConnection.csproj", "{1DA83620-76A6-494E-91AE-AD58F9F642C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DEDF8E-96E5-46B2-8B37-948D533537F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DEDF8E-96E5-46B2-8B37-948D533537F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DEDF8E-96E5-46B2-8B37-948D533537F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DEDF8E-96E5-46B2-8B37-948D533537F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E324EEA7-F07C-4E1E-BFBF-0D44C1DFBE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E324EEA7-F07C-4E1E-BFBF-0D44C1DFBE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E324EEA7-F07C-4E1E-BFBF-0D44C1DFBE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E324EEA7-F07C-4E1E-BFBF-0D44C1DFBE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B118924-DF91-4257-A6B4-5264E2ABB688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B118924-DF91-4257-A6B4-5264E2ABB688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B118924-DF91-4257-A6B4-5264E2ABB688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B118924-DF91-4257-A6B4-5264E2ABB688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4AD8E3-339D-4AB4-B32A-335571CD151C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4AD8E3-339D-4AB4-B32A-335571CD151C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4AD8E3-339D-4AB4-B32A-335571CD151C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4AD8E3-339D-4AB4-B32A-335571CD151C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA83620-76A6-494E-91AE-AD58F9F642C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA83620-76A6-494E-91AE-AD58F9F642C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA83620-76A6-494E-91AE-AD58F9F642C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA83620-76A6-494E-91AE-AD58F9F642C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

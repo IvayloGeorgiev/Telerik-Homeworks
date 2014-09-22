@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>crow big brown </name>
+    <artist>Nevermore</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.55</price>
+    <songs>
+      <song title="nevermore cow horizon guns " duration="1:36" />
+      <song title="big matters " duration="2:32" />
+      <song title="sandman cow else " duration="1:41" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo eat matters </name>
+    <artist>Random Guys</artist>
+    <year>1993</year>
+    <producer>Bobby Turboto</producer>
+    <price>8.37</price>
+    <songs>
+      <song title="horizon elephant " duration="2:50" />
+      <song title="destroy sandman system " duration="2:16" />
+      <song title="enter enter brown guns " duration="3:23" />
+    </songs>
+  </album>
+  <album>
+    <name>elephant frown slay eat </name>
+    <artist>Nevermore</artist>
+    <year>1991</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.56</price>
+    <songs>
+      <song title="gringo sandman guns " duration="5:45" />
+      <song title="brown big " duration="3:17" />
+      <song title="destroy big nothing " duration="4:48" />
+      <song title="brown matters " duration="1:45" />
+    </songs>
+  </album>
+  <album>
+    <name>horizon enter enter eat </name>
+    <artist>Nevermore</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>13.30</price>
+    <songs>
+      <song title="else system " duration="2:35" />
+      <song title="crow enter " duration="1:09" />
+    </songs>
+  </album>
+  <album>
+    <name>elephant matters cow nevermore </name>
+    <artist>Random Guys</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>7.31</price>
+    <songs>
+      <song title="nevermore system destroy " duration="1:36" />
+      <song title="sandman crow sandman " duration="4:15" />
+      <song title="big brown eat how " duration="5:00" />
+      <song title="elephant cow guns elephant " duration="5:29" />
+      <song title="how elephant frown frown " duration="2:53" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing cow </name>
+    <artist>Metallica</artist>
+    <year>1997</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.75</price>
+    <songs>
+      <song title="guns elephant nevermore eat " duration="2:55" />
+      <song title="frown crow nevermore destroy " duration="1:13" />
+    </songs>
+  </album>
+  <album>
+    <name>enter guns </name>
+    <artist>Metallica</artist>
+    <year>2009</year>
+    <producer>Bobby Turboto</producer>
+    <price>19.06</price>
+    <songs>
+      <song title="destroy enter nothing " duration="2:23" />
+      <song title="nevermore cow nevermore elephant " duration="2:39" />
+      <song title="horizon sandman " duration="2:07" />
+      <song title="crow how gringo " duration="1:42" />
+    </songs>
+  </album>
+  <album>
+    <name>destroy how frown how </name>
+    <artist>Shturcite</artist>
+    <year>2000</year>
+    <producer>Bobby Turboto</producer>
+    <price>12.42</price>
+    <songs>
+      <song title="slay gringo gringo horizon " duration="3:46" />
+      <song title="horizon horizon slay system " duration="1:41" />
+      <song title="crow sandman " duration="1:14" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo enter eat </name>
+    <artist>Random Guys</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>13.50</price>
+    <songs>
+      <song title="guns enter " duration="1:58" />
+      <song title="cow gringo system destroy " duration="5:04" />
+    </songs>
+  </album>
+  <album>
+    <name>horizon big </name>
+    <artist>Shturcite</artist>
+    <year>2003</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.79</price>
+    <songs>
+      <song title="frown gringo elephant elephant " duration="4:16" />
+      <song title="big enter nevermore nothing " duration="4:31" />
+      <song title="nevermore nothing " duration="3:51" />
+      <song title="slay how " duration="5:23" />
+    </songs>
+  </album>
+  <album>
+    <name>cow frown </name>
+    <artist>Random Guys</artist>
+    <year>2001</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.37</price>
+    <songs>
+      <song title="else cow brown " duration="1:32" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing system </name>
+    <artist>Nevermore</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>8.44</price>
+    <songs>
+      <song title="guns horizon frown crow " duration="3:27" />
+      <song title="horizon guns elephant destroy " duration="5:37" />
+      <song title="enter else eat nothing " duration="5:35" />
+      <song title="cow enter " duration="4:02" />
+    </songs>
+  </album>
+  <album>
+    <name>cow slay </name>
+    <artist>Random Guys</artist>
+    <year>1999</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.82</price>
+    <songs>
+      <song title="brown sandman brown " duration="5:12" />
+      <song title="gringo matters " duration="4:32" />
+      <song title="matters nothing horizon " duration="3:53" />
+      <song title="system system else " duration="2:36" />
+    </songs>
+  </album>
+  <album>
+    <name>eat sandman eat enter </name>
+    <artist>Nevermore</artist>
+    <year>2005</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.78</price>
+    <songs>
+      <song title="frown sandman " duration="3:16" />
+      <song title="matters matters " duration="1:03" />
+    </songs>
+  </album>
+  <album>
+    <name>system brown </name>
+    <artist>Shturcite</artist>
+    <year>1999</year>
+    <producer>Bobby Turboto</producer>
+    <price>18.01</price>
+    <songs>
+      <song title="eat crow big " duration="1:15" />
+      <song title="matters slay destroy " duration="3:28" />
+      <song title="matters else " duration="1:21" />
+      <song title="elephant how crow " duration="5:34" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo sandman system else </name>
+    <artist>Nevermore</artist>
+    <year>2003</year>
+    <producer>Bobby Turboto</producer>
+    <price>14.36</price>
+    <songs>
+      <song title="sandman system how elephant " duration="2:58" />
+      <song title="how big guns else " duration="1:12" />
+      <song title="nothing destroy elephant system " duration="3:51" />
+      <song title="frown big slay " duration="4:48" />
+    </songs>
+  </album>
+  <album>
+    <name>nevermore else slay else </name>
+    <artist>Nevermore</artist>
+    <year>2007</year>
+    <producer>Bobby Turboto</producer>
+    <price>14.49</price>
+    <songs>
+      <song title="nothing eat brown " duration="3:46" />
+      <song title="horizon nothing matters big " duration="4:28" />
+      <song title="sandman guns horizon " duration="5:50" />
+      <song title="else brown cow " duration="5:28" />
+    </songs>
+  </album>
+  <album>
+    <name>brown nothing </name>
+    <artist>Shturcite</artist>
+    <year>2006</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.43</price>
+    <songs>
+      <song title="how brown matters " duration="2:09" />
+      <song title="elephant nothing enter " duration="2:12" />
+    </songs>
+  </album>
+  <album>
+    <name>sandman enter slay brown </name>
+    <artist>Shturcite</artist>
+    <year>2006</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.67</price>
+    <songs>
+      <song title="guns big how elephant " duration="3:51" />
+      <song title="how nevermore horizon " duration="3:06" />
+    </songs>
+  </album>
+  <album>
+    <name>else elephant slay </name>
+    <artist>Nevermore</artist>
+    <year>1998</year>
+    <producer>Bobby Turboto</producer>
+    <price>14.68</price>
+    <songs>
+      <song title="guns sandman how guns " duration="2:42" />
+    </songs>
+  </album>
+  <album>
+    <name>brown cow </name>
+    <artist>Shturcite</artist>
+    <year>2001</year>
+    <producer>Bobby Turboto</producer>
+    <price>6.67</price>
+    <songs>
+      <song title="sandman matters " duration="4:43" />
+      <song title="else frown gringo else " duration="4:39" />
+      <song title="brown enter brown eat " duration="3:09" />
+    </songs>
+  </album>
+  <album>
+    <name>guns system crow gringo </name>
+    <artist>Metallica</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>6.14</price>
+    <songs>
+      <song title="system slay crow " duration="3:26" />
+      <song title="frown matters frown else " duration="5:28" />
+    </songs>
+  </album>
+  <album>
+    <name>how else nevermore </name>
+    <artist>Nevermore</artist>
+    <year>2006</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.69</price>
+    <songs>
+      <song title="frown nevermore " duration="5:41" />
+      <song title="nevermore big brown " duration="1:41" />
+      <song title="slay crow sandman slay " duration="5:24" />
+      <song title="frown gringo elephant " duration="5:22" />
+      <song title="else cow guns else " duration="2:50" />
+    </songs>
+  </album>
+  <album>
+    <name>sandman enter sandman </name>
+    <artist>System of a Down</artist>
+    <year>1999</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.16</price>
+    <songs>
+      <song title="enter eat frown cow " duration="4:56" />
+      <song title="cow elephant else " duration="4:56" />
+      <song title="nevermore how eat " duration="2:06" />
+      <song title="sandman enter " duration="4:22" />
+      <song title="else frown nevermore elephant " duration="1:51" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing eat nevermore </name>
+    <artist>Shturcite</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>14.38</price>
+    <songs>
+      <song title="destroy system slay cow " duration="1:44" />
+      <song title="frown slay enter gringo " duration="2:23" />
+      <song title="nevermore elephant crow " duration="1:24" />
+      <song title="sandman nevermore gringo horizon " duration="4:48" />
+      <song title="sandman gringo elephant " duration="4:04" />
+    </songs>
+  </album>
+  <album>
+    <name>matters enter big </name>
+    <artist>Nevermore</artist>
+    <year>2003</year>
+    <producer>Bobby Turboto</producer>
+    <price>12.38</price>
+    <songs>
+      <song title="slay nevermore else " duration="2:28" />
+    </songs>
+  </album>
+  <album>
+    <name>destroy how </name>
+    <artist>Shturcite</artist>
+    <year>1995</year>
+    <producer>Bobby Turboto</producer>
+    <price>8.98</price>
+    <songs>
+      <song title="matters enter " duration="5:02" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing else </name>
+    <artist>System of a Down</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.91</price>
+    <songs>
+      <song title="how how cow destroy " duration="2:54" />
+      <song title="enter nevermore nevermore slay " duration="4:41" />
+      <song title="big elephant " duration="2:01" />
+      <song title="nevermore how matters " duration="1:60" />
+    </songs>
+  </album>
+  <album>
+    <name>matters enter frown guns </name>
+    <artist>Shturcite</artist>
+    <year>2003</year>
+    <producer>Bobby Turboto</producer>
+    <price>7.87</price>
+    <songs>
+      <song title="sandman cow guns " duration="2:35" />
+      <song title="sandman big crow " duration="5:23" />
+      <song title="enter how " duration="3:41" />
+    </songs>
+  </album>
+  <album>
+    <name>else slay </name>
+    <artist>Nevermore</artist>
+    <year>2006</year>
+    <producer>Bobby Turboto</producer>
+    <price>19.40</price>
+    <songs>
+      <song title="how horizon " duration="3:38" />
+    </songs>
+  </album>
+  <album>
+    <name>system cow horizon how </name>
+    <artist>System of a Down</artist>
+    <year>1993</year>
+    <producer>Bobby Turboto</producer>
+    <price>7.72</price>
+    <songs>
+      <song title="system slay destroy slay " duration="1:29" />
+    </songs>
+  </album>
+  <album>
+    <name>destroy nevermore nevermore horizon </name>
+    <artist>Metallica</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.41</price>
+    <songs>
+      <song title="big guns crow " duration="1:33" />
+      <song title="horizon system " duration="1:15" />
+      <song title="destroy brown " duration="1:23" />
+      <song title="nothing big else guns " duration="3:10" />
+      <song title="frown guns " duration="2:12" />
+    </songs>
+  </album>
+  <album>
+    <name>eat eat enter enter </name>
+    <artist>Nevermore</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.16</price>
+    <songs>
+      <song title="nevermore system destroy " duration="3:11" />
+      <song title="else frown else guns " duration="4:26" />
+      <song title="else slay crow " duration="3:48" />
+      <song title="guns guns sandman " duration="1:48" />
+      <song title="enter slay frown elephant " duration="1:34" />
+    </songs>
+  </album>
+  <album>
+    <name>brown enter sandman sandman </name>
+    <artist>Nevermore</artist>
+    <year>1994</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.29</price>
+    <songs>
+      <song title="system cow crow eat " duration="3:10" />
+    </songs>
+  </album>
+  <album>
+    <name>sandman destroy </name>
+    <artist>Shturcite</artist>
+    <year>1994</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.01</price>
+    <songs>
+      <song title="cow crow how system " duration="5:59" />
+      <song title="crow nothing " duration="1:51" />
+    </songs>
+  </album>
+  <album>
+    <name>slay gringo </name>
+    <artist>System of a Down</artist>
+    <year>1993</year>
+    <producer>Bobby Turboto</producer>
+    <price>10.01</price>
+    <songs>
+      <song title="horizon slay enter " duration="3:17" />
+      <song title="nothing guns " duration="4:48" />
+      <song title="matters else " duration="5:38" />
+    </songs>
+  </album>
+  <album>
+    <name>destroy enter nevermore </name>
+    <artist>Nevermore</artist>
+    <year>1993</year>
+    <producer>Bobby Turboto</producer>
+    <price>18.65</price>
+    <songs>
+      <song title="nevermore big brown nothing " duration="2:56" />
+      <song title="elephant elephant how " duration="2:48" />
+    </songs>
+  </album>
+  <album>
+    <name>frown matters else system </name>
+    <artist>System of a Down</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.20</price>
+    <songs>
+      <song title="sandman destroy " duration="1:32" />
+    </songs>
+  </album>
+  <album>
+    <name>eat brown elephant </name>
+    <artist>System of a Down</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>19.04</price>
+    <songs>
+      <song title="sandman system nevermore " duration="5:32" />
+      <song title="frown brown system destroy " duration="2:33" />
+    </songs>
+  </album>
+  <album>
+    <name>big enter horizon sandman </name>
+    <artist>Random Guys</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>5.84</price>
+    <songs>
+      <song title="guns enter " duration="2:37" />
+      <song title="nevermore frown slay else " duration="5:51" />
+    </songs>
+  </album>
+  <album>
+    <name>eat guns enter destroy </name>
+    <artist>Random Guys</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.88</price>
+    <songs>
+      <song title="nevermore crow " duration="5:43" />
+      <song title="system big brown guns " duration="4:12" />
+    </songs>
+  </album>
+  <album>
+    <name>else crow enter matters </name>
+    <artist>Shturcite</artist>
+    <year>1994</year>
+    <producer>Bobby Turboto</producer>
+    <price>10.01</price>
+    <songs>
+      <song title="brown frown nevermore " duration="4:47" />
+      <song title="nothing else destroy " duration="2:12" />
+      <song title="horizon slay " duration="3:57" />
+      <song title="nothing cow " duration="3:59" />
+    </songs>
+  </album>
+  <album>
+    <name>else sandman </name>
+    <artist>Nevermore</artist>
+    <year>2002</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.88</price>
+    <songs>
+      <song title="enter crow frown frown " duration="2:36" />
+      <song title="enter destroy enter " duration="2:20" />
+      <song title="destroy slay slay guns " duration="2:34" />
+      <song title="enter destroy how frown " duration="2:40" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo how </name>
+    <artist>System of a Down</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>8.33</price>
+    <songs>
+      <song title="nevermore guns how " duration="5:36" />
+      <song title="cow eat nothing " duration="5:50" />
+      <song title="how nothing " duration="2:26" />
+    </songs>
+  </album>
+  <album>
+    <name>else big guns </name>
+    <artist>Nevermore</artist>
+    <year>2000</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.87</price>
+    <songs>
+      <song title="elephant eat sandman matters " duration="2:15" />
+      <song title="system enter " duration="2:14" />
+      <song title="gringo system frown gringo " duration="5:37" />
+      <song title="enter frown " duration="4:53" />
+      <song title="elephant gringo destroy " duration="3:51" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing elephant </name>
+    <artist>Random Guys</artist>
+    <year>2002</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.47</price>
+    <songs>
+      <song title="how eat brown frown " duration="2:60" />
+      <song title="big how " duration="4:29" />
+      <song title="horizon nothing " duration="4:27" />
+      <song title="brown frown enter " duration="3:24" />
+      <song title="elephant system guns frown " duration="3:56" />
+    </songs>
+  </album>
+  <album>
+    <name>system slay </name>
+    <artist>Shturcite</artist>
+    <year>1991</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.83</price>
+    <songs>
+      <song title="else brown crow " duration="5:31" />
+      <song title="enter enter system " duration="5:03" />
+    </songs>
+  </album>
+  <album>
+    <name>frown enter eat </name>
+    <artist>System of a Down</artist>
+    <year>1999</year>
+    <producer>Bobby Turboto</producer>
+    <price>13.94</price>
+    <songs>
+      <song title="nevermore sandman crow " duration="5:25" />
+      <song title="gringo slay eat nothing " duration="5:39" />
+      <song title="destroy cow how " duration="4:27" />
+      <song title="slay crow nothing slay " duration="5:08" />
+    </songs>
+  </album>
+  <album>
+    <name>system guns </name>
+    <artist>Nevermore</artist>
+    <year>2000</year>
+    <producer>Bobby Turboto</producer>
+    <price>14.41</price>
+    <songs>
+      <song title="destroy frown gringo eat " duration="4:31" />
+      <song title="eat sandman gringo eat " duration="1:24" />
+      <song title="matters matters " duration="3:51" />
+      <song title="nevermore elephant " duration="5:15" />
+    </songs>
+  </album>
+  <album>
+    <name>big big matters </name>
+    <artist>Shturcite</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>19.75</price>
+    <songs>
+      <song title="nothing big crow big " duration="2:28" />
+      <song title="horizon nothing nevermore brown " duration="2:27" />
+      <song title="guns how sandman sandman " duration="4:41" />
+      <song title="frown matters destroy " duration="5:26" />
+      <song title="brown nothing system enter " duration="4:54" />
+    </songs>
+  </album>
+  <album>
+    <name>system guns eat big </name>
+    <artist>Metallica</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>5.33</price>
+    <songs>
+      <song title="frown gringo " duration="5:59" />
+    </songs>
+  </album>
+  <album>
+    <name>horizon else crow guns </name>
+    <artist>Metallica</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.08</price>
+    <songs>
+      <song title="system system system " duration="4:43" />
+    </songs>
+  </album>
+  <album>
+    <name>sandman cow sandman nevermore </name>
+    <artist>Random Guys</artist>
+    <year>1991</year>
+    <producer>Bobby Turboto</producer>
+    <price>5.78</price>
+    <songs>
+      <song title="matters guns big enter " duration="5:08" />
+      <song title="how nevermore how frown " duration="5:14" />
+      <song title="big crow nevermore guns " duration="2:44" />
+    </songs>
+  </album>
+  <album>
+    <name>enter sandman matters matters </name>
+    <artist>Shturcite</artist>
+    <year>1991</year>
+    <producer>Bobby Turboto</producer>
+    <price>13.32</price>
+    <songs>
+      <song title="system gringo " duration="4:48" />
+      <song title="else elephant horizon " duration="1:14" />
+      <song title="system matters elephant eat " duration="5:11" />
+    </songs>
+  </album>
+  <album>
+    <name>frown slay horizon </name>
+    <artist>System of a Down</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>10.48</price>
+    <songs>
+      <song title="frown else nothing brown " duration="2:14" />
+      <song title="system brown enter " duration="5:41" />
+      <song title="elephant gringo guns gringo " duration="3:36" />
+      <song title="eat enter gringo " duration="5:06" />
+      <song title="brown frown nevermore system " duration="2:41" />
+    </songs>
+  </album>
+  <album>
+    <name>crow gringo elephant horizon </name>
+    <artist>Shturcite</artist>
+    <year>1998</year>
+    <producer>Bobby Turboto</producer>
+    <price>15.72</price>
+    <songs>
+      <song title="crow else big enter " duration="4:31" />
+      <song title="nothing crow " duration="3:41" />
+      <song title="nevermore destroy sandman " duration="2:01" />
+      <song title="cow nevermore else " duration="2:60" />
+      <song title="slay frown " duration="4:14" />
+    </songs>
+  </album>
+  <album>
+    <name>slay cow cow crow </name>
+    <artist>Random Guys</artist>
+    <year>2005</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.19</price>
+    <songs>
+      <song title="nothing elephant cow else " duration="2:53" />
+      <song title="else brown " duration="1:13" />
+    </songs>
+  </album>
+  <album>
+    <name>horizon horizon sandman sandman </name>
+    <artist>System of a Down</artist>
+    <year>1994</year>
+    <producer>Bobby Turboto</producer>
+    <price>10.53</price>
+    <songs>
+      <song title="nevermore system gringo " duration="3:37" />
+      <song title="elephant system destroy " duration="1:48" />
+      <song title="else else nevermore enter " duration="1:07" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing guns </name>
+    <artist>Metallica</artist>
+    <year>2003</year>
+    <producer>Bobby Turboto</producer>
+    <price>5.40</price>
+    <songs>
+      <song title="brown elephant " duration="1:03" />
+    </songs>
+  </album>
+  <album>
+    <name>matters horizon matters </name>
+    <artist>Random Guys</artist>
+    <year>2006</year>
+    <producer>Bobby Turboto</producer>
+    <price>9.29</price>
+    <songs>
+      <song title="sandman enter eat " duration="2:01" />
+      <song title="destroy elephant elephant " duration="5:03" />
+      <song title="cow frown frown " duration="4:25" />
+      <song title="destroy matters " duration="3:19" />
+      <song title="elephant system nevermore nevermore " duration="5:58" />
+    </songs>
+  </album>
+  <album>
+    <name>nevermore nevermore </name>
+    <artist>Metallica</artist>
+    <year>2004</year>
+    <producer>Bobby Turboto</producer>
+    <price>18.04</price>
+    <songs>
+      <song title="enter nevermore how brown " duration="2:52" />
+      <song title="crow slay gringo " duration="4:05" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo sandman </name>
+    <artist>System of a Down</artist>
+    <year>1999</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.51</price>
+    <songs>
+      <song title="enter else brown " duration="1:50" />
+      <song title="crow matters " duration="5:17" />
+      <song title="matters nothing " duration="5:48" />
+    </songs>
+  </album>
+  <album>
+    <name>nevermore crow nevermore </name>
+    <artist>Nevermore</artist>
+    <year>1995</year>
+    <producer>Bobby Turboto</producer>
+    <price>7.25</price>
+    <songs>
+      <song title="system enter " duration="2:12" />
+      <song title="horizon big " duration="3:09" />
+      <song title="enter brown enter horizon " duration="2:04" />
+      <song title="nothing crow " duration="4:42" />
+    </songs>
+  </album>
+  <album>
+    <name>eat eat big </name>
+    <artist>System of a Down</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.95</price>
+    <songs>
+      <song title="frown gringo horizon how " duration="2:00" />
+      <song title="destroy nothing " duration="1:15" />
+      <song title="frown big slay " duration="3:17" />
+      <song title="cow slay " duration="5:44" />
+    </songs>
+  </album>
+  <album>
+    <name>frown how </name>
+    <artist>Random Guys</artist>
+    <year>2005</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.11</price>
+    <songs>
+      <song title="gringo horizon " duration="2:46" />
+    </songs>
+  </album>
+  <album>
+    <name>guns horizon cow </name>
+    <artist>Random Guys</artist>
+    <year>2008</year>
+    <producer>Bobby Turboto</producer>
+    <price>10.84</price>
+    <songs>
+      <song title="cow cow eat " duration="2:49" />
+      <song title="nothing frown cow " duration="2:46" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo destroy big crow </name>
+    <artist>Shturcite</artist>
+    <year>1990</year>
+    <producer>Bobby Turboto</producer>
+    <price>7.41</price>
+    <songs>
+      <song title="nothing big " duration="2:31" />
+      <song title="destroy system enter " duration="4:34" />
+    </songs>
+  </album>
+  <album>
+    <name>system slay guns </name>
+    <artist>Metallica</artist>
+    <year>1991</year>
+    <producer>Bobby Turboto</producer>
+    <price>10.65</price>
+    <songs>
+      <song title="elephant eat slay " duration="2:11" />
+      <song title="else sandman elephant eat " duration="3:14" />
+    </songs>
+  </album>
+  <album>
+    <name>else frown </name>
+    <artist>Metallica</artist>
+    <year>1999</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.88</price>
+    <songs>
+      <song title="enter matters brown " duration="4:23" />
+    </songs>
+  </album>
+  <album>
+    <name>brown horizon cow </name>
+    <artist>Random Guys</artist>
+    <year>2000</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.16</price>
+    <songs>
+      <song title="crow eat else enter " duration="1:39" />
+      <song title="enter frown " duration="5:13" />
+      <song title="else nevermore " duration="5:39" />
+      <song title="guns nothing system " duration="1:17" />
+    </songs>
+  </album>
+  <album>
+    <name>nothing horizon destroy </name>
+    <artist>Random Guys</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>11.94</price>
+    <songs>
+      <song title="horizon crow " duration="3:41" />
+    </songs>
+  </album>
+  <album>
+    <name>destroy brown frown </name>
+    <artist>System of a Down</artist>
+    <year>1996</year>
+    <producer>Bobby Turboto</producer>
+    <price>5.42</price>
+    <songs>
+      <song title="eat cow " duration="1:38" />
+    </songs>
+  </album>
+  <album>
+    <name>brown nothing horizon how </name>
+    <artist>Nevermore</artist>
+    <year>2000</year>
+    <producer>Bobby Turboto</producer>
+    <price>17.97</price>
+    <songs>
+      <song title="crow system guns " duration="5:33" />
+      <song title="how how nevermore " duration="2:18" />
+      <song title="destroy slay " duration="3:32" />
+      <song title="elephant nevermore " duration="4:12" />
+    </songs>
+  </album>
+  <album>
+    <name>matters eat big system </name>
+    <artist>Random Guys</artist>
+    <year>1992</year>
+    <producer>Bobby Turboto</producer>
+    <price>7.94</price>
+    <songs>
+      <song title="brown cow sandman eat " duration="1:46" />
+      <song title="nothing how how cow " duration="4:29" />
+      <song title="sandman else nothing " duration="2:29" />
+    </songs>
+  </album>
+  <album>
+    <name>gringo frown </name>
+    <artist>Metallica</artist>
+    <year>1993</year>
+    <producer>Bobby Turboto</producer>
+    <price>18.72</price>
+    <songs>
+      <song title="frown system " duration="4:54" />
+      <song title="horizon nevermore frown frown " duration="3:26" />
+      <song title="system eat sandman " duration="3:36" />
+    </songs>
+  </album>
+  <album>
+    <name>frown gringo </name>
+    <artist>Shturcite</artist>
+    <year>1994</year>
+    <producer>Bobby Turboto</producer>
+    <price>14.65</price>
+    <songs>
+      <song title="big eat gringo horizon " duration="5:15" />
+      <song title="big crow crow sandman " duration="2:07" />
+      <song title="system how " duration="3:17" />
+    </songs>
+  </album>
+  <album>
+    <name>system destroy guns nevermore </name>
+    <artist>System of a Down</artist>
+    <year>2003</year>
+    <producer>Bobby Turboto</producer>
+    <price>16.01</price>
+    <songs>
+      <song title="eat else horizon " duration="2:13" />
+    </songs>
+  </album>
+</albums>

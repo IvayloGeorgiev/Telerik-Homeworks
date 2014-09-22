@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <name>Pencho Pencho</name>
+    <address>55 Somewhere Stree, App. 20</address>
+    <phone-number>08915123123</phone-number>
+  </person>
+  <person>
+    <name>Kaka Stanka</name>
+    <address>89 Noone Cares Blvd</address>
+    <phone-number>08612512366</phone-number>
+  </person>
+</people>
